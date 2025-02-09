@@ -254,7 +254,7 @@ a {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office.jpg);
+    url(../images/desktop/hero-desk@1x-min.jpg);
   padding: 72px 0px;
   background-repeat: no-repeat;
   background-position: center;
@@ -262,6 +262,10 @@ a {
   height: 432px;
   background-size: cover;
   margin: 0 auto;
+}
+
+@media screen {
+
 }
 
 .first-section-title {
